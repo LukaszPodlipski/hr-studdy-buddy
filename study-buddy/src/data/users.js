@@ -2,31 +2,31 @@ export const users = [
   {
     name: 'Adam Romański',
     attendance: '39%',
-    avarage: '2.3',
+    average: '2.3',
   },
   {
     name: 'Anna Pasut',
     attendance: '59%',
-    avarage: '3.1',
+    average: '3.1',
   },
   {
     name: 'Konrad Zbaniuk',
     attendance: '79%',
-    avarage: '4.6',
+    average: '4.6',
   },
   {
     name: 'Angelika Socha',
     attendance: '2%',
-    avarage: '2.1',
+    average: '2.1',
   },
   {
     name: 'Mariusz Murawski',
     attendance: '45%',
-    avarage: '3.9',
+    average: '3.9',
   },
   {
     name: 'Maria Kuśka',
     attendance: '89%',
-    avarage: '5.0',
+    average: '5.0',
   },
 ];
